@@ -1,5 +1,5 @@
 # DIGI_CRACK
- Digispark carregado com uma API de brute force.\
+ Digispark carregado com uma API de brute force.
  
  ------------------------------------------------------
  Porque eu uso um Digispark ao inves de um Ruber Duck?
